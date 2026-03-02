@@ -1,0 +1,13 @@
+[icon]
+prepend_dirs = [
+  {name = "Escritorio", text = "", fg = "cyan"},
+  {name = "Descargas", text = "󰇚", fg = "cyan"},
+  {name = "Imagenes", text = "", fg = "cyan"},
+  {name = "Libros", text = "", fg = "cyan"},
+  {name = "Programas", text = "", fg = "cyan"},
+  {name = "Proyectos", text = "", fg = "cyan"},
+  {name = "Comics", text = "", fg = "cyan"},
+  {name = "Musica", text = "", fg = "cyan"},
+  {name = "Videos", text = "", fg = "cyan"},
+  {name = "Escuela", text = "󰑴", fg = "cyan"}
+]
